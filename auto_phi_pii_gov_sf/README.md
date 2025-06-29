@@ -31,9 +31,8 @@ This repository contains automation scripts, masking policy templates, and gover
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-org/snowflake-phi-governance.git
-
-cd snowflake-phi-governance
+git clone https://github.com/saianuragp/sf_data_gov.git
+cd sf_data_gov/auto_phi_pii_gov_sf
 ```
 
 ### 2. Set Up Snowflake Credentials
