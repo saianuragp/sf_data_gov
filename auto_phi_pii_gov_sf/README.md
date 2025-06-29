@@ -32,6 +32,7 @@ This repository contains automation scripts, masking policy templates, and gover
 
 ```bash
 git clone https://github.com/your-org/snowflake-phi-governance.git
+
 cd snowflake-phi-governance
 ```
 
