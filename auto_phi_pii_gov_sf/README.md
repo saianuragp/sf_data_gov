@@ -119,7 +119,7 @@ MIT License — Free to use, adapt, and extend.
 
 ## 📣 Connect & Contribute
 
-Built and maintained by \[Your Name / Org]
+Built and maintained by \[Sai Anurag Peddu]
 📫 Contact: [LinkedIn Profile](www.linkedin.com/in/saianuragp22)
 
 > Drop a ⭐ if this helps your team, and open an issue if you'd like to contribute templates for dbt, Airflow, or Snowpark!
